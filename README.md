@@ -76,7 +76,8 @@ currency-converter-bot/
 
 ## Screenshots 📸
 
-![Converter Interface](C:\Users\shanm\Downloads\bot)  
+![Converter Interface](![WhatsApp Image 2025-04-04 at 01 35 05_8b0b364e](https://github.com/user-attachments/assets/fd2aacb1-be99-445b-9418-27f847df6899)
+)  
 
 ## Contributing 🤝
 
