@@ -76,7 +76,7 @@ currency-converter-bot/
 
 ## Screenshots 📸
 
-![Converter Interface](images/converter-ui.png)  
+![Converter Interface](C:\Users\shanm\Downloads\bot)  
 
 ## Contributing 🤝
 
