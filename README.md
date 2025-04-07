@@ -75,9 +75,10 @@ currency-converter-bot/
    - Stored locally for privacy and speed  
 
 ## Screenshots 📸
+Converter Interface:
 ![WhatsApp Image 2025-04-07 at 16 35 05_8c046b20](https://github.com/user-attachments/assets/d0039831-dc33-4764-8f63-cacef4369db6)
 
-![Converter Interface](![WhatsApp Image 2025-04-04 at 01 35 05_8b0b364e](https://github.com/user-attachments/assets/fd2aacb1-be99-445b-9418-27f847df6899)
+(![WhatsApp Image 2025-04-04 at 01 35 05_8b0b364e](https://github.com/user-attachments/assets/fd2aacb1-be99-445b-9418-27f847df6899)
 )  
 ![WhatsApp Image 2025-04-07 at 16 35 04_7796aa91](https://github.com/user-attachments/assets/53d7c6dd-c869-4f8b-a373-89902505b631)
 
