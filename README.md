@@ -1,12 +1,12 @@
 
 # Currency Converter Bot 💱🤖
-A sleek and modern web app that allows users to quickly convert currencies in real-time using live exchange rates. The app includes an AI-powered chatbot that guides users through conversions, explains forex terms, and offers currency insights powered by the **Gemini 2.0 Flash API**.
+A sleek and modern web app that allows users to quickly convert currencies in real-time using live exchange rates. The app includes an AI-powered chatbot that guides users through conversions, explains forex terms, and offers currency insights.
 
 ## Features ✨
 
 -  Real-Time Currency Conversion**: Convert nearly 7 currencies using live exchange rates  
 -  Global Coverage**: Supports most major and minor currencies worldwide  
--  AI Chatbot Assistant**: Get help, explanations, and insights from the Gemini 2.0 Flash-powered chatbot  
+-  AI Chatbot Assistant**: Get help, explanations, and insights from the ai websites.  
 -  Conversion History**: Track your past conversions locally  
 -  Responsive Design**: Works seamlessly across all devices  
 -  Forex Education**: Ask the bot to explain exchange rates, currency trends, and more  
@@ -15,8 +15,7 @@ A sleek and modern web app that allows users to quickly convert currencies in re
 
 - HTML5  
 - CSS3 (modern responsive styles)  
-- JavaScript (ES6+)  
-- Gemini 2.0 Flash API for AI chatbot  
+- JavaScript (ES6+)   
 - [Frankfurter Currency API]() or similar for live rates  
 - Local Storage for history persistence  
 
@@ -31,19 +30,13 @@ Coming soon or host your own locally (see below).
 - A modern web browser (Chrome, Firefox, Safari, Edge)  
 - API keys:
   - One for currency exchange rates (e.g., [ExchangeRate-API](https://www.exchangerate-api.com/))
-  - One for the Gemini AI Chatbot ([Get it here](https://makersuite.google.com/app/apikey))
 
 ### Installation
 
-```bash
-git clone https://github.com/yourusername/currency-converter-bot.git
-cd currency-converter-bot
-```
-
 1. Open `index.html` in your browser  
 2. Replace API placeholders:
-   - In `js/chatbot.js`, set your `YOUR_GEMINI_API_KEY`
-   - In `js/script.js`, set your `YOUR_EXCHANGE_API_KEY`
+   - In `js/chatbot.js`, set `API_KEY`
+   - In `js/script.js`, set `EXCHANGE_API_KEY`
 
 ⚠️ **Important**: Never expose your API keys in public repositories. Use local `.env` files or secured methods for production.
 
@@ -94,7 +87,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ## Acknowledgments 🙏
 
 - [ExchangeRate-API](https://www.Frankfurter Currency-api.com/) for currency data  
-- [Google Gemini](https://ai.google.dev/) for the chatbot API  
 - [Font Awesome](https://fontawesome.com/) for icons  
 
 ## Support 💬
