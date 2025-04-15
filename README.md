@@ -17,7 +17,7 @@ A sleek and modern web app that allows users to quickly convert currencies in re
 - CSS3 (modern responsive styles)  
 - JavaScript (ES6+)  
 - Gemini 2.0 Flash API for AI chatbot  
-- [ExchangeRate-API](https://www.exchangerate-api.com/) or similar for live rates  
+- [Frankfurter Currency API]() or similar for live rates  
 - Local Storage for history persistence  
 
 ## Live Demo 🌐
@@ -93,7 +93,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## Acknowledgments 🙏
 
-- [ExchangeRate-API](https://www.exchangerate-api.com/) for currency data  
+- [ExchangeRate-API](https://www.Frankfurter Currency-api.com/) for currency data  
 - [Google Gemini](https://ai.google.dev/) for the chatbot API  
 - [Font Awesome](https://fontawesome.com/) for icons  
 
