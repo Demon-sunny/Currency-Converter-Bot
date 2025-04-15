@@ -4,7 +4,7 @@ A sleek and modern web app that allows users to quickly convert currencies in re
 
 ## Features ✨
 
--  Real-Time Currency Conversion**: Convert between over 150 currencies using live exchange rates  
+-  Real-Time Currency Conversion**: Convert nearly 7 currencies using live exchange rates  
 -  Global Coverage**: Supports most major and minor currencies worldwide  
 -  AI Chatbot Assistant**: Get help, explanations, and insights from the Gemini 2.0 Flash-powered chatbot  
 -  Conversion History**: Track your past conversions locally  
